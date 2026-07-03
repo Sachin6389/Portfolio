@@ -16,7 +16,7 @@ const Home = lazy(() => import("./Pages/Home"));
 const About = lazy(() => import("./Pages/About"));
 
 const NotFound = lazy(() => import("./Pages/NotFound"));
-const Experience = lazy(() => import("./Pages/Experience"));
+const Experience = lazy(() => import("./Pages/Expriemces"));
 const Contact = lazy(() => import("./Pages/Contact"));
 const Project = lazy(() => import("./Pages/Project"));
 
