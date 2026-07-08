@@ -100,7 +100,7 @@ function Home() {
             {/* Buttons */}
             <div className="flex flex-col sm:flex-row gap-4 mt-8 justify-center lg:justify-start">
               <Link
-                to="/projects"
+                to="/project"
                 className="px-6 py-3 bg-blue-600 rounded-lg hover:bg-blue-700 transition duration-300 text-center"
               >
                 View Projects
