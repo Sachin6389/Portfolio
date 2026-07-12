@@ -45,8 +45,18 @@ function Projects() {
       github: "https://github.com/Sachin6389/task_manger",
       live: "https://task-manger-navy.vercel.app/",
     },
-    {
+     {
       id: 5,
+      title: "AI Chat Assistant",
+      description:
+        " A full-stack MERN AI chat assistant that allows users to interact with an AI-powered chatbot for various tasks and information retrieval.",
+      image: assets.AiChatAssistant,
+      technologies: ["React.js","JavaScript",  "Tailwind CSS", "Python","Flask","Flask-CORS","Python-Dotenv","LLM","Prompt Engineering","Groq", "Vercel", "Render"],
+      github: "https://github.com/Sachin6389/ai-chat-assistant ",
+      live: "https://ai-chat-assistant-dusky.vercel.app/",
+    },
+    {
+      id: 6,
       title: "E-Commerce Website For Laptop Store",
       description:
         "A full-stack MERN e-commerce platform with authentication, cart, orders, order-status and payment integration.",
@@ -56,7 +66,7 @@ function Projects() {
       live: "https://himanshucomputerservicescom.vercel.app/",
     },
     {
-      id: 6,
+      id: 7,
       title: "Admin Panel for Laptop-Store",
       description:
         "Built a user-friendly admin system that helps businesses easily manage products, track inventory, monitor orders, and oversee deliveries from a single dashboard..",
@@ -67,7 +77,7 @@ function Projects() {
     },
     
      {
-      id: 7,
+      id: 8,
       title: "credit Score prediction based on financial data",
       description:
         "A machine learning model that predicts credit scores based on financial data, helping lenders assess the creditworthiness of applicants and make informed lending decisions.",
