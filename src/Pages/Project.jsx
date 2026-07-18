@@ -192,7 +192,7 @@ function Projects() {
 
           <div className="bg-slate-800 p-6 rounded-xl text-center">
             <h3 className="text-4xl font-bold text-green-500">
-              5+
+              9+
             </h3>
             <p className="text-slate-400 mt-2">
               Live Projects
@@ -201,7 +201,7 @@ function Projects() {
 
           <div className="bg-slate-800 p-6 rounded-xl text-center">
             <h3 className="text-4xl font-bold text-yellow-500">
-              10+
+              50+
             </h3>
             <p className="text-slate-400 mt-2">
               Technologies
