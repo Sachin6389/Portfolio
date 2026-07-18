@@ -14,9 +14,19 @@ function Projects() {
       github: "https://github.com/Sachin6389/FULL-STACK/tree/main/HimanshuComputerServices",
       live: "https://triscaner-ai.vercel.app/",
     },
-    
     {
       id: 2,
+      title: "AI Customer Support Assistant",
+      description:
+        "An AI-powered customer support assistant that provides instant responses to user queries and helps resolve issues efficiently.",
+      image: assets.AiCustomerSupport,
+      technologies: ["React.js","JavaScript",  "Tailwind CSS", "Python","Flask","Flask-CORS","Python-Dotenv","LLM", "React Markdown " ,"Remark GFM" ,"Axios" ,"LangChain" ,"LangChain-Groq"," Groq API"," Gunicorn","Prompt Engineering", "Vercel", "Render"],
+      github: "https://github.com/Sachin6389/AI-Customer-Support-Assistant",
+      live: "https://ai-customer-support-assistant-zeta.vercel.app/",
+    },
+    
+    {
+      id: 3,
       title: "Buildnex Web Application",
       description:
         "Buildnex Web Technologies is a professional web development company and website development company providing modern web development services, custom website design services, and scalable digital solutions for startups, businesses, and ecommerce brands.",
@@ -26,7 +36,7 @@ function Projects() {
       live: "https://www.buildnexwebtechnologies.in/",
     },
     {
-      id: 3,
+      id: 4,
       title: " Abhi Photography & Digital Studio",
       description:
         "A full-stack MERN photography and digital studio website that allows users to view portfolios, book sessions, and make payments online.",
@@ -36,7 +46,7 @@ function Projects() {
       live: "https://abhi-photography-and-digital-studio.vercel.app/",
     },
     {
-      id: 4,
+      id: 5,
       title: "Task Manager",
       description:
         "A full-stack MERN task management application that allows users to create, update, and delete tasks, set priorities, and track progress in real-time.",
@@ -46,7 +56,7 @@ function Projects() {
       live: "https://task-manger-navy.vercel.app/",
     },
      {
-      id: 5,
+      id: 6,
       title: "AI Chat Assistant",
       description:
         " A full-stack MERN AI chat assistant that allows users to interact with an AI-powered chatbot for various tasks and information retrieval.",
@@ -56,7 +66,7 @@ function Projects() {
       live: "https://ai-chat-assistant-dusky.vercel.app/",
     },
     {
-      id: 6,
+      id: 7,
       title: "E-Commerce Website For Laptop Store",
       description:
         "A full-stack MERN e-commerce platform with authentication, cart, orders, order-status and payment integration.",
@@ -66,7 +76,7 @@ function Projects() {
       live: "https://himanshucomputerservicescom.vercel.app/",
     },
     {
-      id: 7,
+      id: 8,
       title: "Admin Panel for Laptop-Store",
       description:
         "Built a user-friendly admin system that helps businesses easily manage products, track inventory, monitor orders, and oversee deliveries from a single dashboard..",
@@ -77,7 +87,7 @@ function Projects() {
     },
     
      {
-      id: 8,
+      id: 9,
       title: "credit Score prediction based on financial data",
       description:
         "A machine learning model that predicts credit scores based on financial data, helping lenders assess the creditworthiness of applicants and make informed lending decisions.",

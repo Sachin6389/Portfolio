@@ -12,5 +12,6 @@ import Task from "./Task.png"
 import CreditScore from "./Credit.png"
 import AbhiPhotography from "./AbhiPhoto.png"
 import AiChatAssistant from "./Ai-chat.png"
+import AiCustomerSupport from "./AiCustomerSupport.png"
 
-export const assets = { AiChatAssistant, logo ,  instagram , LaptopStore , Buildnex , AdminPanelLaptop , Triscaner , Github,Linkedin ,Menu , Back , Task , CreditScore , AbhiPhotography}
+export const assets = { AiChatAssistant, logo ,  instagram , LaptopStore , Buildnex , AdminPanelLaptop , Triscaner , Github,Linkedin ,Menu , Back , Task , CreditScore , AbhiPhotography, AiCustomerSupport }
