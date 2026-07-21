@@ -42,8 +42,8 @@ function Projects() {
         "A full-stack MERN photography and digital studio website that allows users to view portfolios, book sessions, and make payments online.",
       image: assets.AbhiPhotography,
       technologies: ["React.js", "MongoDB", "JavaScript", "Node.js", "Express.js", "Tailwind CSS", "JWT", "Cloudinary", "Redux", "Stripe", "Razorpay", "Vercel", "Render","SEO" ,"Google Search Console"],
-      github: "https://github.com/Sachin6389/Abhi_Photography_and_Digital_Studio",
-      live: "https://abhi-photography-and-digital-studio.vercel.app/",
+      github: "https://github.com/Sachin6389/",
+      live: " https://abhi-photography-and-digital-studio.vercel.app/",
     },
     {
       id: 5,
