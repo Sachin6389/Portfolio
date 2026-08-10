@@ -4,6 +4,12 @@ import { assets } from "../assets/assest.js";
 
 function Home() {
   const skills = [
+    "Tavily Search API",
+    "Gunicorn",
+    "Tavily Search API",
+    "Flask-CORS",
+    "Remark GFM",
+    "React Markdown",
     "PyPDFLoader",
     "Uvicorn",
     "Python Logging",

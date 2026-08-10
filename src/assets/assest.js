@@ -13,5 +13,7 @@ import CreditScore from "./Credit.png"
 import AbhiPhotography from "./AbhiPhoto.png"
 import AiChatAssistant from "./Ai-chat.png"
 import AiCustomerSupport from "./AiCustomerSupport.png"
+import AiResearchAgent from "./AI Research Agent.png"
+import AiKnowledgeBaseAssistant from "./AI Knowledge Base Assistant.png"
 
-export const assets = { AiChatAssistant, logo ,  instagram , LaptopStore , Buildnex , AdminPanelLaptop , Triscaner , Github,Linkedin ,Menu , Back , Task , CreditScore , AbhiPhotography, AiCustomerSupport }
+export const assets = {AiResearchAgent , AiKnowledgeBaseAssistant ,AiChatAssistant, logo ,  instagram , LaptopStore , Buildnex , AdminPanelLaptop , Triscaner , Github,Linkedin ,Menu , Back , Task , CreditScore , AbhiPhotography, AiCustomerSupport }
