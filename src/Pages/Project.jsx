@@ -6,6 +6,17 @@ function Projects() {
   const projects = [
     {
       id: 1,
+      title: " AI Knowledge Base Assistant — Advanced Hybrid RAG",
+      description:
+        "I developed an AI Knowledge Base Assistant using Advanced Hybrid RAG, combining ChromaDB, BM25, CrossEncoder Reranking, and Groq Llama 3 to retrieve relevant information from company documents and generate accurate, source-backed answers.",
+      image: assets.AiCustomerSupport,
+      technologies: ["React.js", "FastAPI", "LangChain", "ChromaDB", "Sentence Transformers", "BM25", "CrossEncoder", "Groq Llama 3", "Pydantic", "Python","JavaScript",  "Tailwind CSS","Python-Dotenv","LLM", "React Markdown " ,"Remark GFM" ,"Axios" ,"Prompt Engineering" ,"PyPDFLoader","Uvicorn","Python Logging","FastAPI CORS Middleware",
+    ],
+      github: "https://github.com/Sachin6389/AI-Knowledge-Base-Assistant",
+      live: "https://github.com/Sachin6389/AI-Knowledge-Base-Assistant",
+    },
+    {
+      id: 2,
       title: "TriScan – Automated Medical Imaging Classification System",
       description:
         "TriScaner is an AI-powered medical imaging platform that detects bone fractures, brain tumors, kidney stones, chest diseases and more with high accuracy.",
@@ -15,7 +26,7 @@ function Projects() {
       live: "https://triscaner-ai.vercel.app/",
     },
     {
-      id: 2,
+      id: 3,
       title: "AI Customer Support Assistant",
       description:
         "An AI-powered customer support assistant that provides instant responses to user queries and helps resolve issues efficiently.",
@@ -26,7 +37,7 @@ function Projects() {
     },
     
     {
-      id: 3,
+      id: 4,
       title: "Buildnex Web Application",
       description:
         "Buildnex Web Technologies is a professional web development company and website development company providing modern web development services, custom website design services, and scalable digital solutions for startups, businesses, and ecommerce brands.",
@@ -36,7 +47,7 @@ function Projects() {
       live: "https://www.buildnexwebtechnologies.in/",
     },
     {
-      id: 4,
+      id: 5,
       title: " Abhi Photography & Digital Studio",
       description:
         "A full-stack MERN photography and digital studio website that allows users to view portfolios, book sessions, and make payments online.",
@@ -46,7 +57,7 @@ function Projects() {
       live: " https://abhi-photography-and-digital-studio.vercel.app/",
     },
     {
-      id: 5,
+      id: 6,
       title: "Task Manager",
       description:
         "A full-stack MERN task management application that allows users to create, update, and delete tasks, set priorities, and track progress in real-time.",
@@ -56,7 +67,7 @@ function Projects() {
       live: "https://task-manger-navy.vercel.app/",
     },
      {
-      id: 6,
+      id: 7,
       title: "AI Chat Assistant",
       description:
         " A full-stack MERN AI chat assistant that allows users to interact with an AI-powered chatbot for various tasks and information retrieval.",
@@ -66,7 +77,7 @@ function Projects() {
       live: "https://ai-chat-assistant-dusky.vercel.app/",
     },
     {
-      id: 7,
+      id: 8,
       title: "E-Commerce Website For Laptop Store",
       description:
         "A full-stack MERN e-commerce platform with authentication, cart, orders, order-status and payment integration.",
@@ -76,7 +87,7 @@ function Projects() {
       live: "https://himanshucomputerservicescom.vercel.app/",
     },
     {
-      id: 8,
+      id: 9,
       title: "Admin Panel for Laptop-Store",
       description:
         "Built a user-friendly admin system that helps businesses easily manage products, track inventory, monitor orders, and oversee deliveries from a single dashboard..",
@@ -87,7 +98,7 @@ function Projects() {
     },
     
      {
-      id: 9,
+      id: 10,
       title: "credit Score prediction based on financial data",
       description:
         "A machine learning model that predicts credit scores based on financial data, helping lenders assess the creditworthiness of applicants and make informed lending decisions.",

@@ -4,6 +4,17 @@ import { assets } from "../assets/assest.js";
 
 function Home() {
   const skills = [
+    "PyPDFLoader",
+    "Uvicorn",
+    "Python Logging",
+    "FastAPI CORS Middleware",
+    "Groq Llama 3",
+    "Pydantic",
+    "CrossEncoder",
+    "BM25",
+    "Sentence Transformers",
+    "ChromaDB",
+    "FastAPI",
     "React.js",
     "Node.js",
     "MongoDB",
