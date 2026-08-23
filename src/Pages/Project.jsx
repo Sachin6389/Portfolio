@@ -6,6 +6,17 @@ function Projects() {
   const projects = [
     {
       id: 1,
+      title: "  DStarix AI Assistant ",
+      description:
+        "The DStarix AI Assistant is an AI-powered knowledge-base chatbot backend that uses Retrieval-Augmented Generation (RAG) to answer questions from uploaded company documents.",
+      image: assets.DStarixAIAssistant,
+      technologies: ["React.js", "FastAPI", "LangChain", "ChromaDB", "Sentence Transformers", "BM25", "CrossEncoder", "Groq Llama 3", "Pydantic", "Python","JavaScript",  "Tailwind CSS","Python-Dotenv","LLM", "React Markdown " ,"Remark GFM" ,"Axios" ,"Prompt Engineering" ,"PyPDFLoader","Uvicorn","Python Logging","FastAPI CORS Middleware",
+    ],
+      github: "https://github.com/Sachin6389/DStarix-AI-Assistant",
+      live: "https://lnkd.in/p/dwUJvEfK",
+    },
+    {
+      id: 2,
       title: " AI Knowledge Base Assistant — Advanced Hybrid RAG",
       description:
         "I developed an AI Knowledge Base Assistant using Advanced Hybrid RAG, combining ChromaDB, BM25, CrossEncoder Reranking, and Groq Llama 3 to retrieve relevant information from company documents and generate accurate, source-backed answers.",
@@ -16,7 +27,28 @@ function Projects() {
       live: "https://www.linkedin.com/posts/sachin-buildnex_ai-knowledge-activity-7492463806384640000-5PQK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdSGb4B2P0Qlm-mtZx4BERJcor_FanKVzU",
     },
      {
-      id: 2,
+      id: 3,
+      title: "MEDV AI Assistant",
+      description:
+        "MEDV AI Assistant allows users to upload their own documents and ask questions about them using Retrieval-Augmented Generation (RAG).",
+      image: assets.MedvAi,
+      technologies: ["React.js", "FastAPI", "LangChain", "ChromaDB", "Sentence Transformers", "BM25", "CrossEncoder", "Groq Llama 3", "Pydantic", "Python","JavaScript",  "Tailwind CSS","Python-Dotenv","LLM", "React Markdown " ,"Remark GFM" ,"Axios" ,"Prompt Engineering" ,"PyPDFLoader","Uvicorn","Python Logging","FastAPI CORS Middleware"],
+      github: "https://github.com/Sachin6389/MEDV-AI",
+      live: "https://github.com/Sachin6389/MEDV-AI",
+    },
+     
+     {
+      id: 4,
+      title: "AI Research Assistant – Autonomous Web Research & Report Generation",
+      description:
+        "The AI Research Assistant allows users to enter a research topic or question through an interactive React interface.",
+      image: assets.AiResearchAssistant,
+      technologies: ["React.js", "FastAPI", "LangChain",  "Groq Llama 3", "Pydantic", "Python","JavaScript",  "Tailwind CSS","Python-Dotenv","LLM", "React Markdown " ,"Remark GFM" ,"Axios" ,"Prompt Engineering" ,"Uvicorn","Python Logging","FastAPI CORS Middleware"],
+      github: "https://github.com/Sachin6389/AI-Research-Assistant",
+      live: "https://lnkd.in/p/dAQjbVcg",
+    },
+     {
+      id: 5,
       title: "AI Research Agent",
       description:
         "AI Research Agent — Developed an autonomous web research system using LangGraph, LangChain, Groq LLM, and Tavily API to search, analyze, summarize, and generate structured research reports from real-time web sources.",
@@ -26,7 +58,7 @@ function Projects() {
       live: "https://github.com/Sachin6389/AI-Research-Agent",
     },
     {
-      id: 3,
+      id: 6,
       title: "TriScan – Automated Medical Imaging Classification System",
       description:
         "TriScaner is an AI-powered medical imaging platform that detects bone fractures, brain tumors, kidney stones, chest diseases and more with high accuracy.",
@@ -36,7 +68,7 @@ function Projects() {
       live: "https://triscaner-ai.vercel.app/",
     },
     {
-      id: 4,
+      id: 7,
       title: "AI Customer Support Assistant",
       description:
         "An AI-powered customer support assistant that provides instant responses to user queries and helps resolve issues efficiently.",
@@ -47,7 +79,7 @@ function Projects() {
     },
     
     {
-      id: 5,
+      id: 8,
       title: "Buildnex Web Application",
       description:
         "Buildnex Web Technologies is a professional web development company and website development company providing modern web development services, custom website design services, and scalable digital solutions for startups, businesses, and ecommerce brands.",
@@ -57,7 +89,7 @@ function Projects() {
       live: "https://www.buildnexwebtechnologies.in/",
     },
     {
-      id: 6,
+      id: 9,
       title: " Abhi Photography & Digital Studio",
       description:
         "A full-stack MERN photography and digital studio website that allows users to view portfolios, book sessions, and make payments online.",
@@ -67,7 +99,7 @@ function Projects() {
       live: " https://abhi-photography-and-digital-studio.vercel.app/",
     },
     {
-      id: 7,
+      id: 10,
       title: "Task Manager",
       description:
         "A full-stack MERN task management application that allows users to create, update, and delete tasks, set priorities, and track progress in real-time.",
@@ -77,7 +109,7 @@ function Projects() {
       live: "https://task-manger-navy.vercel.app/",
     },
      {
-      id: 8,
+      id: 11,
       title: "AI Chat Assistant",
       description:
         " A full-stack MERN AI chat assistant that allows users to interact with an AI-powered chatbot for various tasks and information retrieval.",
@@ -87,7 +119,7 @@ function Projects() {
       live: "https://ai-chat-assistant-dusky.vercel.app/",
     },
     {
-      id: 9,
+      id: 12,
       title: "E-Commerce Website For Laptop Store",
       description:
         "A full-stack MERN e-commerce platform with authentication, cart, orders, order-status and payment integration.",
@@ -97,7 +129,7 @@ function Projects() {
       live: "https://himanshucomputerservicescom.vercel.app/",
     },
     {
-      id: 10,
+      id: 13,
       title: "Admin Panel for Laptop-Store",
       description:
         "Built a user-friendly admin system that helps businesses easily manage products, track inventory, monitor orders, and oversee deliveries from a single dashboard..",
@@ -108,7 +140,7 @@ function Projects() {
     },
     
      {
-      id: 11,
+      id: 14,
       title: "credit Score prediction based on financial data",
       description:
         "A machine learning model that predicts credit scores based on financial data, helping lenders assess the creditworthiness of applicants and make informed lending decisions.",

@@ -15,5 +15,8 @@ import AiChatAssistant from "./Ai-chat.png"
 import AiCustomerSupport from "./AiCustomerSupport.png"
 import AiResearchAgent from "./AI Research Agent.png"
 import AiKnowledgeBaseAssistant from "./AI Knowledge Base Assistant.png"
+import DStarixAIAssistant from "./DStarixAiAssistant.png"
+import MedvAi from "./MedvAi.png"
+import AiResearchAssistant from "./AiResearchAssistant.png"
 
-export const assets = {AiResearchAgent , AiKnowledgeBaseAssistant ,AiChatAssistant, logo ,  instagram , LaptopStore , Buildnex , AdminPanelLaptop , Triscaner , Github,Linkedin ,Menu , Back , Task , CreditScore , AbhiPhotography, AiCustomerSupport }
+export const assets = {DStarixAIAssistant,AiResearchAssistant,MedvAi,AiResearchAgent , AiKnowledgeBaseAssistant ,AiChatAssistant, logo ,  instagram , LaptopStore , Buildnex , AdminPanelLaptop , Triscaner , Github,Linkedin ,Menu , Back , Task , CreditScore , AbhiPhotography, AiCustomerSupport }
