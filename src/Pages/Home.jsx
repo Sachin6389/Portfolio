@@ -4,6 +4,8 @@ import { assets } from "../assets/assest.js";
 
 function Home() {
   const skills = [
+    "MCP",
+    "SQLite",
     "Tavily Search API",
     "Gunicorn",
     "Tavily Search API",
